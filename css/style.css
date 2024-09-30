@@ -91,6 +91,7 @@
     background-color: #53535354;
     width: 100%;
     height: 460px;
+    font-family: 'Inter';
 }
 .footer-div {
     width: 1128px;
@@ -99,16 +100,40 @@
     justify-content: space-around;
     align-items: flex-start;
     padding-top: 109px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .foot1 {
     width: 318.05px;
 }
 .foot2 {
     width: 136px;
+    height: 223px;
 }
 .foot3 {
     width: 199px;
 }
 .foot4 {
     width: 107px;
+}
+.foot-p {
+    margin: 32px 0 28px 12px;
+    font-size: 14px;
+    line-height: 16.94px;
+    font-weight: 400;
+    width: 306.05px;
+    height: 73px;
+}
+.logos {
+    margin-left: 12px;
+}
+.box2-title {
+    width: 136px;
+    height: 24px;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+.nav-list {
+    margin-top: 71px;
 }
